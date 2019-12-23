@@ -2,10 +2,10 @@
 
 <?php
 //Set up variables
-$server = 'mysql81.unoeuro.com';
-$user = 'jennyjohannessen_dk';
-$pw = 'bx2h5gcz';
-$db = 'jennyjohannessen_dk_db';
+$server = '#';
+$user = '#';
+$pw = '#';
+$db = '#';
 
 
 //create connection
